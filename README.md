@@ -6,10 +6,11 @@ Bu proje, **Binance** API'sini kullanarak kripto para verilerini çeker ve belir
 
 - Binance'den **canlı veriler** ve grafikler çekilir.
 - Teknik göstergelere dayalı **alım/satım sinyalleri**:
-  - Buy  
-  - Sell  
-  - Strong Buy  
-  - Neutral  
+  - Buy 🟩
+  - Sell 🟨
+  - Strong Buy 🟢
+  - Strong Sell 🔴
+  - Neutral ⬜
 - Birden fazla **kripto para** üzerinde analiz yapılabilir.
 - Kullanıcı dostu ve estetik bir **arayüz**.
 
