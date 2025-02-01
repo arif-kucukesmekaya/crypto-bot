@@ -26,15 +26,3 @@ Bu proje, **Binance** API'sini kullanarak kripto para verilerini çeker ve belir
 
 Uygulama, kullanıcıların analiz yapmak istedikleri **kripto paraları** seçebileceği, analiz sonuçlarını kolayca görüntüleyebileceği bir arayüz sunar.
 
-## Katkıda Bulunmak 🤝
-
-Proje üzerinde katkıda bulunmak isterseniz, lütfen aşağıdaki adımları izleyin:
-
-1. Fork'layın
-2. Yeni bir branch oluşturun
-3. Değişikliklerinizi yapın
-4. Pull request oluşturun
-
-## Lisans 📜
-
-Bu proje **MIT Lisansı** altında lisanslanmıştır.
