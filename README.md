@@ -1,6 +1,6 @@
-# Crypto Trading Bot 🚀
+# Crypto Trading Bot 🤖
 
-Bu proje, **Binance** API'sini kullanarak kripto para verilerini çeker ve belirlediğiniz teknik göstergelere göre analiz yaparak alım satım sinyalleri oluşturur. Proje, kullanıcı dostu bir arayüz ile birden fazla kripto parayı analiz etme imkanı sunar.
+Bu proje, **Binance** API'sini kullanarak kripto para verilerini çeker ve belirlediğimiz indikatörlere göre analiz yaparak alım satım sinyalleri oluşturur. Proje, kullanıcı dostu bir arayüz ile birden fazla kripto parayı analiz etme imkanı sunar. 
 
 ## Özellikler 🎯
 
@@ -18,9 +18,15 @@ Bu proje, **Binance** API'sini kullanarak kripto para verilerini çeker ve belir
 
 - **Python**  
 - **Binance API**  
-- **Matplotlib** & **Plotly** (Veri görselleştirme)  
-- **Streamlit** (Arayüz tasarımı)
-- **Pandas** & **NumPy** (Veri analizi)
+- **Matplotlib** & **Plotly** (Data visualization)  
+- **Streamlit** (UI design)  
+- **Pandas** & **NumPy** (Data analysis)  
+- **TA-Lib** (ta) - Technical analysis indicators  
+- **ccxt** (ccxt) - Integration with other cryptocurrency exchanges  
+- **python-telegram-bot** - Telegram bot integration  
+- **python-dotenv** (dotenv) - Reading .env files
+
+
 
 ## Kullanıcı Arayüzü 🖥️
 
