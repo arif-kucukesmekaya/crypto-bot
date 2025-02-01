@@ -19,25 +19,8 @@ Bu proje, **Binance** API'sini kullanarak kripto para verilerini çeker ve belir
 - **Python**  
 - **Binance API**  
 - **Matplotlib** & **Plotly** (Veri görselleştirme)  
-- **Tkinter** (Arayüz tasarımı)  
+- **Streamlit** (Arayüz tasarımı)
 - **Pandas** & **NumPy** (Veri analizi)
-
-## Başlangıç 🚀
-
-Proje ile ilgili gerekli adımları takip ederek, botu bilgisayarınızda çalıştırabilirsiniz.
-
-1. **Bağımlılıkları yükleyin:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-2. **Binance API Anahtarını Alın:**
-    Binance hesabınız üzerinden API anahtarınızı alıp, **config.py** dosyasına ekleyin.
-
-3. **Botu Başlatın:**
-    ```bash
-    python crypto_bot.py
-    ```
 
 ## Kullanıcı Arayüzü 🖥️
 
